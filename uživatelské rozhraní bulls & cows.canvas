@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"8c884637db2bd1cf","x":-300,"y":-580,"width":400,"height":660,"type":"group","label":"hrací obrazovka"},
+		{"id":"dca17f75e630978b","x":-80,"y":-480,"width":174,"height":540,"type":"text","text":"hadaná čísla\n"},
+		{"id":"b44dfe19aaefba07","x":-280,"y":-480,"width":180,"height":67,"type":"text","text":"uhádni číslo\n"},
+		{"id":"dec308d8b04d8ef6","x":-300,"y":-580,"width":400,"height":60,"type":"text","text":"\tčas()    pokusy ()   restart exit\n\t  "},
+		{"id":"0b9c9988550613c3","x":-260,"y":-360,"width":120,"height":60,"type":"text","text":"bull :"},
+		{"id":"b9f36f0b0a5538f6","x":-258,"y":-270,"width":118,"height":60,"type":"text","text":"cows\n:\n"}
+	],
+	"edges":[]
+}

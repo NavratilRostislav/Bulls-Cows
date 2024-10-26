@@ -1,0 +1,11 @@
+poznámky co udělat a co je hotové
+hlavní program == hotovo
+implementace času 
+implementace rozhraní : 
+    startovní tlačítko 
+    tabulka úspěchů
+    čas
+    pokusy do hry
+    konec 
+    restart
+                    
