@@ -1,5 +1,13 @@
 poznámky co udělat a co je hotové
 hlavní program == hotovo
+poupravyt podmínku:
+ hadana cisla:6331
+ uzivatelovy 3333
+ bull 2 cows 2 to je spatne
+
+
+
+
 implementace času 
 implementace rozhraní : 
     startovní tlačítko 
