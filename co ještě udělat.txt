@@ -8,7 +8,7 @@ poupravyt podmínku:
 
 
 
-implementace času 
+implementace času tru
 implementace rozhraní : 
     startovní tlačítko 
     tabulka úspěchů
